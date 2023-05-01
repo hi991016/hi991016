@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 A **Creative Front End Developer** (specializing in React Applications). I am graduated in 2022
+🎓 A **Creative Front End Developer** (specializing in React Applications). I am graduated in 2022.
 
 👨‍💻 Basically, I like creating cool designs and creating polished & meaningful user experiences. I design and develop experiences that make people's lives simple.
 
