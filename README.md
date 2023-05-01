@@ -10,7 +10,7 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Drawing**, **Reading**, and **Enjoy works of art**. I also a fan of develop soft skills so I can communicate to others better.
 
-📚 I also enjoy reading books about **personal development** & **the world's great artists**. My favorite book is **"The Shape of Ideas: An Illustrated Exploration of Creativity"** by Grant Snider.
+📚 I also enjoy reading books about **personal development** & **the world's great artists**. My favorite book is **The Shape of Ideas: An Illustrated Exploration of Creativity** by Grant Snider.
 
 ## 🛠️ I’m currently working with ...
 
